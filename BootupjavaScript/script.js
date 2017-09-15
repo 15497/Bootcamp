@@ -1,23 +1,48 @@
-//Persoon Nick hordijk
-var fristName1 = "Nick";
+typeof firstName1;
+typeof lastName1;
+typeof age;
+typeof hobby;
+typeof hobby2;
+typeof isBoy;
+
+
+//Persoon joyce hordijk
+var fristName1 = "Joyce";
 var lastName1 = "Hordijk";
-var age = 26;
-var hobby = "Games";
+var age = 29;
+var hobby = "baken";
 var hooby2 = "Golf";
-var isBoy = true;
+var isBoy = false;
 
-//Persoon Frank muren
-var fristName2 = "Frank";
-var lastName2 = "Muren";
-var age2 = 18;
+
+typeof firstName2;
+typeof lastName2;
+typeof age2;
+typeof hobby3;
+typeof hobby4;
+typeof isBoy;
+
+
+//Persoon harun van der kurk
+var fristName2 = "harun";
+var lastName2 = "van der keur";
+var age2 = 19;
 var hobby3 = "Games";
-var hooby4 = "TF";
+var hooby4 = "sporten";
 var isBoy = true;
 
-//Persoon Maurice de jong
-var fristName3 = "Maurice";
-var lastName3 = "de jong";
-var age3 = 18;
+
+typeof firstName3;
+typeof lastName3;
+typeof age3;
+typeof hobby5;
+typeof hobby6;
+typeof isGirl;
+
+//Persoon melissa vriend
+var fristName3 = "Melissa";
+var lastName3 = "vriend";
+var age3 = 21;
 var hobby5 = "PUBG";
-var hooby6 = "minigolf";
-var isBoy = true;
+var hooby6 = "Runescape";
+var isGirl = true;
